@@ -13,3 +13,7 @@ O
 contracts/security-deposit.clar,d/5/d5c332bc008a7f1bccbde807e2e5bc17400ab596
 N
 tests/security-deposit.test.ts,f/1/f135c30bc64979950f76d04b915afe22de927d1a
+Q
+!tests/tenant-verification.test.ts,5/3/53b9f8d3b9d09bece0cd8a1e8b79be7ca1ce813f
+R
+"contracts/tenant-verification.clar,2/b/2be884bbe91f78da8342ae61f2c3085d3fb57c35

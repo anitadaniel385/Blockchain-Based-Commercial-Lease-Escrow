@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/security-deposit.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.tenant-verification]
+path = 'contracts/tenant-verification.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
